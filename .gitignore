@@ -1,7 +1,7 @@
 src/
 vendor/
 node_modules/
-devtalkus.sql
+devtalku.sql
 gulpfile.js
 package.json
 package-lock.json
