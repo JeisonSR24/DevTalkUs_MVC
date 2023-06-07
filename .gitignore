@@ -6,4 +6,4 @@ package.json
 package-lock.json
 .DS_Store
 .env
-.devtalkus.sql
+devtalkus.sql
